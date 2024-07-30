@@ -58,3 +58,7 @@ button.bottom-left{
   bottom:4vh;
   left:2vw;
 }
+
+p.dark{
+  color: #000000;
+}

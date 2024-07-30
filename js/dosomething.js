@@ -1,6 +1,1 @@
-var button = document.getElementById("code1")
-
-button.addEventListener("click",()=>{
-    button.innerHTML=String.fromCharCode(35,74,117,110,101,77,101,101,116,115,79,110,105,111,110);
-})
-//Developer notes: #It’sTorNotOnion
+'use strict';var button=document.getElementById("c");button.addEventListener("click",()=>{button.innerHTML=String.fromCharCode(35,74,117,110,101,77,101,101,116,115,79,110,105,111,110);console.log(String.fromCharCode(35,73,116,226,128,153,115,84,111,114,78,111,116,79,110,105,111,110))});function dontpeak(b){d.value==b?somethingredundant():alert("Wrong password. Please retry.")};
