@@ -56,7 +56,7 @@ p {
 button.bottom-left{
   position: absolute;
   bottom:4vh;
-  left:2vw;
+  right:2vw;
 }
 
 p.dark{
